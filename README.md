@@ -1,2 +1,2 @@
 # pylombok
-Lombok for python
+YOU SHOULD BE ASHAMED OF YOURSELF
